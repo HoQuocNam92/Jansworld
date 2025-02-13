@@ -6,4 +6,16 @@
     #content {
         display: block;
     }
+
+    #slider .logo-bran b {
+        display: none;
+    }
+
+    .popular-posts .tags {
+        padding: 8px;
+    }
+
+    #footer button {
+        color: #fff;
+    }
 }
